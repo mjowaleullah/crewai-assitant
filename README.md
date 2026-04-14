@@ -137,7 +137,7 @@ python-dotenv
 
 **MJ Owaleullah**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/mjowaleullah)
+- GitHub: [@mjowaleullah](https://github.com/mjowaleullah)
 
 ---
 
