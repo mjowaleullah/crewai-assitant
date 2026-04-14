@@ -36,7 +36,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/crewai-assistant.git
+git clone https://github.com/mjowaleullah/crewai-assistant.git
 cd crewai-assistant
 ```
 
@@ -52,7 +52,7 @@ Create a `.env` file in the root directory:
 
 ```env
 OPENAI_API_BASE=https://openrouter.ai/api/v1
-OPENAI_MODEL_NAME=openrouter/meta-llama/llama-3.1-8b-instruct:free
+OPENAI_MODEL_NAME=openrouter/elephant-alpha
 OPENROUTER_API_KEY=your_openrouter_api_key_here
 ```
 
@@ -103,15 +103,6 @@ User Input (Topic)
   Final Report (displayed in Streamlit UI)
 ```
 
----
-
-## 🌟 Free Models on OpenRouter
-
-| Model | ID |
-|---|---|
-| Llama 3.1 8B | `openrouter/meta-llama/llama-3.1-8b-instruct:free` |
-| Qwen 2 7B | `openrouter/qwen/qwen-2-7b-instruct:free` |
-| Mistral 7B | `openrouter/mistralai/mistral-7b-instruct:free` |
 
 ---
 
@@ -123,13 +114,6 @@ streamlit
 python-dotenv
 ```
 
----
-
-## ⚠️ Important Notes
-
-- Never commit your `.env` file to GitHub
-- The `.env.example` file is safe to commit — it contains no real keys
-- Free models on OpenRouter may have rate limits
 
 ---
 
