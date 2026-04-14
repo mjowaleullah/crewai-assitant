@@ -1,4 +1,4 @@
-# MJ's AI Research Assistant
+# Mj's AI Research Assistant
 
 > An intelligent multi-agent research assistant powered by **CrewAI**, **OpenRouter**, and **Streamlit**
 
@@ -135,7 +135,7 @@ python-dotenv
 
 ## 👨‍💻 Author
 
-**MJ Owaleullah**
+**Mj Owaleullah**
 
 - GitHub: [@mjowaleullah](https://github.com/mjowaleullah)
 
