@@ -1,4 +1,4 @@
-# 🤖 MJ's AI Research Assistant
+# MJ's AI Research Assistant
 
 > An intelligent multi-agent research assistant powered by **CrewAI**, **OpenRouter**, and **Streamlit**
 
@@ -75,7 +75,6 @@ crewai-assistant/
 │
 ├── app.py              # Main Streamlit application
 ├── .env                # Environment variables (never commit this!)
-├── .env.example        # Example env file for reference
 ├── requirements.txt    # Python dependencies
 ├── .gitignore          # Git ignore rules
 └── README.md           # Project documentation
@@ -138,7 +137,7 @@ python-dotenv
 
 **MJ Owaleullah**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/mjowaleullah)
 
 ---
 
